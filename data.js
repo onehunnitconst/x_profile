@@ -10,7 +10,7 @@ const data = [
         table: {
           '플레이어명': 'OHC',
           '캐릭터': [
-            '<img class="me-1" width="24" height="24" src="/images/parabo.webp"/>',
+            '<img class="me-1" width="24" height="24" src="https://raw.githubusercontent.com/onehunnitconst/x_profile/main/images/parabo.webp"/>',
             '파라보',
           ].join('\n'),
           '팝클래스': '99.40',
